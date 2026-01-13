@@ -18,7 +18,7 @@ public class Score {
 	
 	public void increaseWins(){
 		System.out.println("Increasing wins in the bean");;
-		wins++;
+		wins++
 	}
 	public void increaseLosses(){
 		losses++;
